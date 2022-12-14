@@ -2,107 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lokesh1197.github.io/testwebsite/fr/</loc>
+    <loc>/fr/</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokesh1197.github.io/testwebsite/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lokesh1197.github.io/testwebsite/fr/"
+                href="/fr/"
                 />
   </url><url>
-    <loc>https://lokesh1197.github.io/testwebsite/fr/post/chapter-1/</loc>
+    <loc>/fr/post/chapter-1.html</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokesh1197.github.io/testwebsite/post/chapter-1/"
+                href="/post/chapter-1.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lokesh1197.github.io/testwebsite/fr/post/chapter-1/"
+                href="/fr/post/chapter-1.html"
                 />
   </url><url>
-    <loc>https://lokesh1197.github.io/testwebsite/fr/tags/scene/</loc>
+    <loc>/fr/tags/scene.html</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokesh1197.github.io/testwebsite/tags/scene/"
+                href="/tags/scene.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lokesh1197.github.io/testwebsite/fr/tags/scene/"
+                href="/fr/tags/scene.html"
                 />
   </url><url>
-    <loc>https://lokesh1197.github.io/testwebsite/fr/tags/</loc>
+    <loc>/fr/tags.html</loc>
     <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokesh1197.github.io/testwebsite/tags/"
+                href="/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lokesh1197.github.io/testwebsite/fr/tags/"
+                href="/fr/tags.html"
                 />
   </url><url>
-    <loc>https://lokesh1197.github.io/testwebsite/fr/post/</loc>
+    <loc>/fr/post.html</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokesh1197.github.io/testwebsite/post/"
+                href="/post.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lokesh1197.github.io/testwebsite/fr/post/"
+                href="/fr/post.html"
                 />
   </url><url>
-    <loc>https://lokesh1197.github.io/testwebsite/fr/categories/</loc>
+    <loc>/fr/categories.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokesh1197.github.io/testwebsite/categories/"
+                href="/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lokesh1197.github.io/testwebsite/fr/categories/"
+                href="/fr/categories.html"
                 />
   </url><url>
-    <loc>https://lokesh1197.github.io/testwebsite/fr/contact/</loc>
+    <loc>/fr/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lokesh1197.github.io/testwebsite/contact/"
+                href="/contact.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lokesh1197.github.io/testwebsite/fr/contact/"
+                href="/fr/contact.html"
                 />
   </url>
 </urlset>
