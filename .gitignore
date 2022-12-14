@@ -1,0 +1,10 @@
+archetypes/*
+content/*
+resources/*
+static/*
+themes/*
+.gitmodules
+.hugo_build.lock
+config.toml
+go.mod
+go.sum
